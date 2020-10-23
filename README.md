@@ -8,7 +8,7 @@ Now copy and paste the files from the react folder on this repo into the src fol
 
 Next, create a c2c_homework folder in the Sites folder on your Mac and copy the files in the php folder on this repo into the new c2c_homework folder.
 
-Now go back into the src folder in the react project and change the phpdir variable in the App.js file to use your computer username. 
+Now go back into the src folder in the react project and change the phpdir variable on line 6 in the App.js file to use your computer username. 
 
 Now make sure Apache is running with this command. If you don't have Apache set up yet I used this tutorial (https://discussions.apple.com/docs/DOC-250001766)
 
