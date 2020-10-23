@@ -1,7 +1,0 @@
-{
-        "firstName": "Nicole",
-        "lastName": "Davis",
-        "dayOfTheWeek": "Monday",
-        "startTime": "1200",
-        "endTime": "1215"
-    }
