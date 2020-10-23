@@ -3,7 +3,7 @@ import AvailList from "./AvailList";
 import TimeSet from "./TimeSet";
 import { tonormtime } from "./Avail.js";
 
-const phpdir = "http://localhost/~aarondeak/c2c_homework/";
+const phpdir = "http://localhost/~{{username}}/c2c_homework/";
 export { phpdir };
 
 var coachlist = [];
